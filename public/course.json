@@ -1,0 +1,75 @@
+[
+    {
+      "img": "https://i.ibb.co/L1Jts9z/since.jpg",
+      "id": 1,
+      "course": "Introduction to Data Science",
+      "credit": 3,
+      "price": 49.99,
+      "details": "This course provides an introduction to data science, covering fundamental concepts such as data manipulation, exploratory data analysis, and basic machine learning techniques."
+    },
+    {
+      "img": "https://i.ibb.co/rFRm2x7/person-front-computer-working-html.jpg",
+      "id": 2,
+      "course": "Web Development with HTML and CSS",
+      "credit": 4,
+      "price": 59.99,
+      "details": "Learn web development basics with HTML and CSS. This course covers topics such as creating web pages, styling elements, and building responsive layouts."
+    },
+    {
+      "img": "https://i.ibb.co/GF1BR2F/pexels-realtoughcandycom-11035547.jpg",
+      "id": 3,
+      "course": "Java Programming Fundamentals",
+      "credit": 5,
+      "price": 69.99,
+      "details": "Master the fundamentals of Java programming language, including syntax, object-oriented programming principles, and basic algorithms and data structures."
+    },
+    {
+      "img": "https://i.ibb.co/y43yXH7/pyhhon.jpg",
+      "id": 4,
+      "course": "Python for Beginners",
+      "credit": 4,
+      "price": 54.99,
+      "details": "Get started with Python programming from scratch. This course covers basic Python syntax, data types, control structures, and introductory concepts of object-oriented programming."
+    },
+    {
+      "img": "https://i.ibb.co/BjRDyHR/app.jpg",
+      "id": 5,
+      "course": "Mobile App Development with Flutter",
+      "credit": 6,
+      "price": 79.99,
+      "details": "Learn to build cross-platform mobile applications using the Flutter framework. This course covers UI design, state management, and integrating APIs for both iOS and Android platforms."
+    },
+    {
+      "img": "https://i.ibb.co/Cz32dMj/data.jpg",
+      "id": 6,
+      "course": "Database Management Essentials",
+      "credit": 4,
+      "price": 64.99,
+      "details": "Understand the fundamentals of database management systems, including relational database concepts, SQL querying, database design principles, and normalization."
+    },
+    {
+      "img": "https://i.ibb.co/fNsN9fj/in.jpg",
+      "id": 7,
+      "course": "Introduction to Machine Learning",
+      "credit": 3,
+      "price": 59.99,
+      "details": "Discover the basics of machine learning, including supervised and unsupervised learning algorithms, model evaluation techniques, and real-world applications of machine learning."
+    },
+    {
+      "img": "https://i.ibb.co/4VmKXqM/js.jpg",
+      "id": 8,
+      "course": "JavaScript Programming for Web Developers",
+      "credit": 3,
+      "price": 49.99,
+      "details": "Learn JavaScript programming for web development. This course covers JavaScript basics, DOM manipulation, event handling, and asynchronous programming with AJAX."
+    },
+    {
+      "img": "https://i.ibb.co/rmT0fsk/Cyber.jpg",
+      "id": 9,
+      "course": "Cybersecurity Fundamentals",
+      "credit": 4,
+      "price": 74.99,
+      "details": "Understand the fundamental principles of cybersecurity, including network security, cryptography, threat analysis, and security best practices for organizations."
+    }
+  ]
+  
